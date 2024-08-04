@@ -1,0 +1,18 @@
+C:\Users\Alex\source\repos\Alexander_Fearday_ Unit4_IT481\IT481_Unit04_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Alex\source\repos\Alexander_Fearday_ Unit4_IT481\IT481_Unit04_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Alex\source\repos\Alexander_Fearday_ Unit4_IT481\IT481_Unit04_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Alex\source\repos\Alexander_Fearday_ Unit4_IT481\IT481_Unit04_UnitTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Alex\source\repos\Alexander_Fearday_ Unit4_IT481\IT481_Unit04_UnitTest\bin\Debug\IT481_Unit04_UnitTest.dll
+C:\Users\Alex\source\repos\Alexander_Fearday_ Unit4_IT481\IT481_Unit04_UnitTest\bin\Debug\IT481_Unit04_UnitTest.pdb
+C:\Users\Alex\source\repos\Alexander_Fearday_ Unit4_IT481\IT481_Unit04_UnitTest\bin\Debug\Alexander_Fearday_ Unit4_IT481.exe
+C:\Users\Alex\source\repos\Alexander_Fearday_ Unit4_IT481\IT481_Unit04_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Alex\source\repos\Alexander_Fearday_ Unit4_IT481\IT481_Unit04_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Alex\source\repos\Alexander_Fearday_ Unit4_IT481\IT481_Unit04_UnitTest\bin\Debug\Alexander_Fearday_ Unit4_IT481.pdb
+C:\Users\Alex\source\repos\Alexander_Fearday_ Unit4_IT481\IT481_Unit04_UnitTest\bin\Debug\Alexander_Fearday_ Unit4_IT481.exe.config
+C:\Users\Alex\source\repos\Alexander_Fearday_ Unit4_IT481\IT481_Unit04_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Alex\source\repos\Alexander_Fearday_ Unit4_IT481\IT481_Unit04_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Alex\source\repos\Alexander_Fearday_ Unit4_IT481\IT481_Unit04_UnitTest\obj\Debug\IT481_Unit04_UnitTest.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\Alexander_Fearday_ Unit4_IT481\IT481_Unit04_UnitTest\obj\Debug\IT481_Unit04_UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Alexander_Fearday_ Unit4_IT481\IT481_Unit04_UnitTest\obj\Debug\IT481_Unit04_UnitTest.csproj.CopyComplete
+C:\Users\Alex\source\repos\Alexander_Fearday_ Unit4_IT481\IT481_Unit04_UnitTest\obj\Debug\IT481_Unit04_UnitTest.dll
+C:\Users\Alex\source\repos\Alexander_Fearday_ Unit4_IT481\IT481_Unit04_UnitTest\obj\Debug\IT481_Unit04_UnitTest.pdb
